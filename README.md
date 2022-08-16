@@ -1,5 +1,5 @@
-# storeacts
-A simple app which manages your phone book contacts using sql.
+# Storeacts
+A simple app which manages your phone book contacts.
 
 ## Installation And Usage
 1. Installation
